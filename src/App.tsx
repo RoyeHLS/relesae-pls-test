@@ -6,7 +6,6 @@ function App() {
     <div>
       <Homepage />
       <p>I am testing the "feat/testv1" branch</p>
-      <p>fixed a small bug</p>
     </div>
   );
 }
