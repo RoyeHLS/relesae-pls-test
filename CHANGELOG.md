@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/RoyeHLS/relesae-pls-test/compare/v1.1.0...v1.2.0) (2023-09-21)
+
+
+### Features
+
+* giant feature i am the king ([294e6d3](https://github.com/RoyeHLS/relesae-pls-test/commit/294e6d38c08e2b9c9cd732ca771b9b63fb765c4a))
+
 ## [1.1.0](https://github.com/RoyeHLS/relesae-pls-test/compare/v1.0.0...v1.1.0) (2023-08-23)
 
 
